@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WarehouseManagement</string>
+    <string name="ch_language">Language</string>
+    <string name="language">English</string>
+    <string name="exit_name">Exit</string>
+    <string name="login_name">Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Account</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">"Sign in "</string>
+    <string name="welcome">Welcome !</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed !</string>
+    <string name="search_name">Search</string>
+    <string name="input_name">Data Input</string>
+    <string name="review_name">Review</string>
+    <string name="result_name">Result</string>
+    <string name="search_code">Code</string>
+    <string name="position_name">Position</string>
+    <string name="shosename_name">Name</string>
+    <string name="DataModify_name">Modify</string>
+    <string name="DataDelete_name">Delete</string>
+    <string name="confirm_name">Confirm</string>
+    <string name="DataModify_ShoesName_name">Name:</string>
+    <string name="DataModify_ShoesCode_name">Code:</string>
+    <string name="DataModify_Position_name">Position:</string>
+    <string name="update_success_name">Update Successful</string>
+    <string name="update_fail_name">Update Failed</string>
+    <string name="deleteWaring_name">Are you sure to delete this data?</string>
+    <string name="cancel_name">Cancel</string>
+    <string name="deleteAllData_warning_name">WARNING! This motion will delete ALL data of database! Are you sure keep going?</string>
+    <string name="yes_name">Yes</string>
+    <string name="no_name">No</string>
+    <string name="maxLengthWarning">More than 9 character entered! Please try again!</string>
+    <string name="searchEmpty_name">Input error or data not included int the database!</string>
+    <string name="codeErrorLength">More than 9 or less than 6 character entered! Please retry!</string>
+    <string name="emptyDatabase_name">Empty database!</string>
+    <string name="errorLength_name">More or less than 9 character of code entered! Please retry!</string>
+</resources>

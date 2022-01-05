@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">仓务管理</string>
+    <string name="ch_language">更改语言</string>
+    <string name="language">简体中文</string>
+    <string name="exit_name">离开</string>
+    <string name="login_name">登录</string>
+    <string name="prompt_email">用户</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登入</string>
+    <string name="action_sign_in_short">登入</string>
+    <string name="welcome">欢迎 !</string>
+    <string name="invalid_username">无效的用户名称</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="invalid_password">密码必需大于5个字元</string>
+    <string name="login_failed">登录失败 !</string>
+    <string name="search_name">搜索</string>
+    <string name="input_name">输入资料</string>
+    <string name="review_name">检阅</string>
+    <string name="result_name">结果</string>
+    <string name="search_code">编号</string>
+    <string name="position_name">位置</string>
+    <string name="shosename_name">鞋名</string>
+    <string name="DataModify_name">修改</string>
+    <string name="DataDelete_name">刪除</string>
+    <string name="confirm_name">确定</string>
+    <string name="DataModify_ShoesName_name">鞋名:</string>
+    <string name="DataModify_ShoesCode_name">编号:</string>
+    <string name="DataModify_Position_name">位置:</string>
+    <string name="update_success_name">更新成功</string>
+    <string name="update_fail_name">更新失败</string>
+    <string name="deleteWaring_name">是否删除资料?</string>
+    <string name="cancel_name">取消</string>
+    <string name="deleteAllData_warning_name">注意!此动作会删除资料库中所有资料,是否继续?</string>
+    <string name="yes_name">是</string>
+    <string name="no_name">否</string>
+    <string name="maxLengthWarning">你输入的字元超过9个,请重新输入!</string>
+    <string name="searchEmpty_name">输入错误或资料库中未收录该笔资料!</string>
+    <string name="codeErrorLength">输入的编号少于6个字元或多于9个字元!</string>
+    <string name="emptyDatabase_name">资料库内目前没有收录任何资料!</string>
+    <string name="errorLength_name">输入的编号不是9个,请重新输入!</string>
+</resources>
